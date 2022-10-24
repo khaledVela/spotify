@@ -1,0 +1,17 @@
+{
+    "name": "usuario/seg-parcial",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khaledvela",
+            "email": "khaled.blog.personal@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    }
+}
